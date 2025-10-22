@@ -1,0 +1,4 @@
+project_id = "jdnxpszkotgyygudoqrg"
+
+[functions.drug-advisor]
+verify_jwt = false
